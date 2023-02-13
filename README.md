@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/baranema/my_profile/blob/main/hello.gif" alt="Hi, I'm Emilija 👋 I'm a 🚀 Lithuanian developer 🚀">
+  <img src="https://github.com/baranema/baranema/blob/main/hello.gif" alt="Hi, I'm Emilija 👋 I'm a 🚀 Lithuanian developer 🚀">
 </p>
 
 ### About Me 💫
