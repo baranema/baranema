@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/baranema/baranema/blob/main/hello.gif" alt="Hi, I'm Emilija 👋 I'm a 🚀 Lithuanian developer 🚀"
-  width=600>
+  width=100%>
 </p> 
 
 ### About Me 💫
