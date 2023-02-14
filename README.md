@@ -19,5 +19,5 @@ Take a look at my projects ⏭️ to see what kind of adventures I've been on! �
 ### :link: Links
 <p align="center">
   <a href= "https://github.com/baranema/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-  <a href= "hhttps://www.linkedin.com/in/emilijabaranauskaite/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/emilijabaranauskaite/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 </p>
