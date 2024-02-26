@@ -6,15 +6,11 @@
 ### About Me 💫
 
 - 💻 Bachelor of Computer Science
-- 🔥 Currently Backend Developer
-- 📚 Data Science & Machine Learning enthusiast
-- I love to turn 🔢 into 💡 and create beautiful visualizations 📊 to tell a story
-
-Aside from coding, I love to freeze time through photography and unleash my creativity through pottery. My diverse background and interests provide me with a unique perspective and inspire me to continuously learn and evolve in all aspects of life. 🎨
+- 🔥 Currently working as Backend Developer
 
 I look forward to tackling new challenges and can’t wait to see where my passion for data & technology will lead me next! 
 
-Take a look at my projects ⏭️ to see what kind of adventures I've been on! 🚀 Future Developer taking off! 🚀
+Take a look at my projects ⏭️ to see what kind of adventures I've been on!
 
 ### :link: Links
 <p align="center">
